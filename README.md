@@ -25,7 +25,8 @@ A simple React app to keep track of restaurants you’d like to visit in London 
 
 ## 📸 Screenshot
 
-<img width="839" height="631" alt="Screenshot 2025-08-16 at 07 00 34" src="https://github.com/user-attachments/assets/2395e268-4f85-4c61-934f-6af078a4e996" />
+
+<img width="839" height="631" alt="Screenshot 2025-08-16 at 07 22 57" src="https://github.com/user-attachments/assets/dc3910f8-7008-48f5-bf59-38d5660348d6" />
 
 ---
 
